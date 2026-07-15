@@ -8,7 +8,7 @@
 
 ### 🌱 About Me
 
-- 🎓 I'm a 2nd semester Computer Science student at **UET Lahore**
+- 🎓 I'm a 3rd semester Computer Science student at **UET Lahore**
 - 💻 Currently learning **C++** and diving deep into **Data Structures**
 - 📚 Exploring topics like Queues, Priority Queues, Heaps, OOP, and Database Systems
 - 🕌 Passionate about building projects that combine tech with meaningful purpose (like my prayer tracker project!)
